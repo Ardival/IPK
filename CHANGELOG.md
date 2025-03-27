@@ -12,5 +12,6 @@
 ## Známé obmedzenia
 - Niektoré operačné systémy vyžadujú špeciálne oprávnenia na prácu s raw socketmi (spustenie so `sudo`).
 - IPv6 podpora môže byť obmedzená v niektorých sieťových konfiguráciách.
+- Ďalšie obmedzenia nie sú známe.
 
 
