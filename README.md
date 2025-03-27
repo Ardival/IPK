@@ -23,9 +23,9 @@ Aplikácia je implementovaná v jazyku C a pozostáva z nasledujúcich súborov:
   
 <p align="center">
   ![Diagram ukazujúci architektúru aplikácie](images/Obrázok1.jpg)
+  **Obrázok 1**: Diagram ukazujúci architektúru aplikácie.
 </p>
 
-  **Obrázok 1**: Diagram ukazujúci architektúru aplikácie.
 
 ### Použité knižnice
 Aplikácia využíva štandardné knižnice na prácu so sieťou:
