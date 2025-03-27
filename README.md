@@ -8,7 +8,7 @@ IPK-L4-Scan je nástroj na skenovanie sieťových portov pomocou protokolov TCP 
   - RST-ACK → zatvorený port
 - **UDP skenovanie**: Odosiela UDP pakety a sleduje odpovede.
   - ICMP Port Unreachable → zatvorený port
-  - Nedostatok odpovede → port môže byť otvorený
+  - Nedostatok odpovede → port môže byť otvorený (považuje sa za otvorený)
 - **Použitie raw socketov**: Umožňuje prijímanie a odosielanie sieťových paketov na nízkej úrovni.
 - **Použitie knižnice pcap**: Slúži na získanie dostupných sieťových rozhraní.
 
