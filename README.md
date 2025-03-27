@@ -39,7 +39,7 @@ Aplikácia využíva štandardné knižnice na prácu so sieťou:
   - Vytváranie a odosielanie TCP SYN paketov.
 - **Funkcie `send_udp_packet` a `send_udp_packet_ipv6`** (v `send_udp.c`)
   - Vytváranie a odosielanie UDP paketov a prijímanie odpovedí.
-- Využitie semaforov na zabránenie race condition pri opätovnom odosielaní SYN paketov.
+- Využitie semaforov na zabránenie "race condition" pri opätovnom odosielaní SYN paketov.
 
 ## 4. Testovanie a validácia
 
