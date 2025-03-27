@@ -20,10 +20,10 @@ Aplikácia je implementovaná v jazyku C a pozostáva z nasledujúcich súborov:
 - **recv.c** – Prijímanie a spracovanie odpovedí (pre TCP).
 - **send_tcp.c** – Odosielanie TCP SYN paketov pre IPv4 a IPv6, výpočet kontrolných súm.
 - **send_udp.c** – Odosielanie UDP paketov pre IPv4 a IPv6 a analýza odpovedí.
-  <p align="center">
+  <div align="center">
   <img src="images/Obrázok1.jpg" />
-  **Obrázok 1**: Diagram ukazujúci architektúru aplikácie.
-</p>
+    <p>**Obrázok 1**: Diagram ukazujúci architektúru aplikácie.</p>
+</div>
 
 ### Použité knižnice
 Aplikácia využíva štandardné knižnice na prácu so sieťou:
